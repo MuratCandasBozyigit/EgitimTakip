@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EgitimTakip.Web", "EgitimTakip.Web.csproj", "{D47ECABA-4AD3-4A57-A354-9C2116616FE4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EgitimTakip.Models", "..\EgitimTakip.Models\EgitimTakip.Models.csproj", "{6FDDB3CC-17F0-4A78-BE6C-98F66920F634}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EgitimTakip.Data", "..\EgitimTakip.Data\EgitimTakip.Data.csproj", "{D4866D39-F8E0-4F4E-A3F4-A23A203F8FCB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EgitimTakip.Repository", "..\EgitimTakip.Repository\EgitimTakip.Repository.csproj", "{EF1CA753-4EB0-4E3B-842D-FE6125B11DD0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EgitimTakip.Business", "..\EgitimTakip.Business\EgitimTakip.Business.csproj", "{B201F1B4-1A27-4987-85D3-60C74A1FA466}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EgitimTakip.Buisness", "..\EgitimTakip.Buisness\EgitimTakip.Buisness.csproj", "{6790E70D-D07B-4618-AAED-8AD349A890C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D47ECABA-4AD3-4A57-A354-9C2116616FE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D47ECABA-4AD3-4A57-A354-9C2116616FE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D47ECABA-4AD3-4A57-A354-9C2116616FE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D47ECABA-4AD3-4A57-A354-9C2116616FE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FDDB3CC-17F0-4A78-BE6C-98F66920F634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FDDB3CC-17F0-4A78-BE6C-98F66920F634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FDDB3CC-17F0-4A78-BE6C-98F66920F634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FDDB3CC-17F0-4A78-BE6C-98F66920F634}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4866D39-F8E0-4F4E-A3F4-A23A203F8FCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4866D39-F8E0-4F4E-A3F4-A23A203F8FCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4866D39-F8E0-4F4E-A3F4-A23A203F8FCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4866D39-F8E0-4F4E-A3F4-A23A203F8FCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF1CA753-4EB0-4E3B-842D-FE6125B11DD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF1CA753-4EB0-4E3B-842D-FE6125B11DD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF1CA753-4EB0-4E3B-842D-FE6125B11DD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF1CA753-4EB0-4E3B-842D-FE6125B11DD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B201F1B4-1A27-4987-85D3-60C74A1FA466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B201F1B4-1A27-4987-85D3-60C74A1FA466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B201F1B4-1A27-4987-85D3-60C74A1FA466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B201F1B4-1A27-4987-85D3-60C74A1FA466}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6790E70D-D07B-4618-AAED-8AD349A890C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6790E70D-D07B-4618-AAED-8AD349A890C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6790E70D-D07B-4618-AAED-8AD349A890C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6790E70D-D07B-4618-AAED-8AD349A890C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B34C15C3-F8AB-430D-8BAC-DE3CA92D068B}
+	EndGlobalSection
+EndGlobal
